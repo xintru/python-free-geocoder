@@ -1,12 +1,10 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "88c8bea8b0fe10f6098def41f17549038a6ff873fb1ce065c7893b14d6c31744"
+            "sha256": "97989568c1c68300180466b72ac1d572395bf4418098002b8992c6f051fc20a2"
         },
         "pipfile-spec": 6,
-        "requires": {
-            "python_version": "2.7"
-        },
+        "requires": {},
         "sources": [
             {
                 "name": "pypi",
@@ -32,6 +30,14 @@
             "index": "pypi",
             "version": "==1.1.2"
         },
+        "flask-api": {
+            "hashes": [
+                "sha256:3d4cfb2ff214af9957f61455f660b5cfa181d6112e56cda526011bbe7af2a09e",
+                "sha256:6986642e5b25b7def710ca9489ed2b88c94006bfc06eca01c78da7cf447e66e5"
+            ],
+            "index": "pypi",
+            "version": "==2.0"
+        },
         "geographiclib": {
             "hashes": [
                 "sha256:12bd46ee7ec25b291ea139b17aa991e7ef373e21abd053949b75c0e9ca55c632",
@@ -41,11 +47,11 @@
         },
         "geopy": {
             "hashes": [
-                "sha256:5dee9af0d1ad7019d2483a5f519ba415eaebc4010f271651790876d911a542f2",
-                "sha256:62f14aaacbac313576167d4abdd74c667c04a64ccba4a9ef4599bf8954c998fc"
+                "sha256:b88e189f0d2e0051da45b6311d5b2ced59afaf1378eb27ebb57eaf37c166a03b",
+                "sha256:fdc596bab67d9f4828f43bf9e97c4e0a1d1518b7c2357485cef0e1c3cf470220"
             ],
             "index": "pypi",
-            "version": "==1.23.0"
+            "version": "==2.0.0"
         },
         "itsdangerous": {
             "hashes": [
